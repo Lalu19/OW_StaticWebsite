@@ -1,0 +1,856 @@
+Uri: https://demo.themewinter.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/404.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\404.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/about-us-1.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\about-us-1.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/about-us-2.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\about-us-2.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/case-studies.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\case-studies.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/contact.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\contact.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/css/animate.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\animate.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/bootstrap.min.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/font-awesome.min.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/icofonts.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\icofonts.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/magnific-popup.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/owl.video.play.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\owl.video.play.png.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/css/owlcarousel.min.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\owlcarousel.min.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/responsive.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\responsive.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/css/style.css
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\css\style.css
+Content Type: text/css
+
+Uri: https://demo.themewinter.com/html/seobin/faq.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\faq.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.eot?
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/icofonts/iconfont.svg?2p4rfb
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\icofonts\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/icofonts/iconfont.ttf?2p4rfb
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\icofonts\iconfont.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themewinter.com/html/seobin/fonts/icofonts/iconfont.woff?2p4rfb
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\fonts\icofonts\iconfont.woff
+Content Type: font/woff
+
+Uri: https://demo.themewinter.com/html/seobin/images/404.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\404.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/about_color_img.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\about_color_img.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/about_ellipse.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\about_ellipse.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/about_image.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\about_image.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/about_page_img1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\about_page_img1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/award1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\award1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/award2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\award2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/award3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\award3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/award4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\award4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/home-10-about.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\home-10-about.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/intro-illustration.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\intro-illustration.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/laptop.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\laptop.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/about/our_mission.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\about\our_mission.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/banner/baner.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\banner\baner.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/banner/banner5.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\banner\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study7.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study7.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/case-study8.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\case-study8.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/final_result.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\final_result.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/result_bg1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\result_bg1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/result_bg2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\result_bg2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/result_bg3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\result_bg3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/result_bg4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\result_bg4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/single_case_arrow.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\single_case_arrow.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/single_case_img1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\single_case_img1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/cases/single_case_img2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\cases\single_case_img2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/announce.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\announce.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/chart.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\chart.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/check-seo-banner-art.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\check-seo-banner-art.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/check-seo-banner-big.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\check-seo-banner-big.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/cloud.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\cloud.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/check-seo/cloud2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\check-seo\cloud2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/clients/client1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\clients\client1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/clients/client2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\clients\client2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/clients/client3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\clients\client3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/clients/client4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\clients\client4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/features/wave.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\features\wave.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/features/wave_color.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\features\wave_color.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/footer_logo.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\footer_logo.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/funfacts/arrow_left.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\funfacts\arrow_left.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/funfacts/arrow_right.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\funfacts\arrow_right.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/funfacts/working-process-dark-bg.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\funfacts\working-process-dark-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon-image/author.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon-image\author.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon-image/avatar1.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon-image\avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon-image/avatar3.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon-image\avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon-image/avatar4.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon-image\avatar4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon-image/testimonial1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon-image\testimonial1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/best.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\best.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/fact1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\fact1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/fact2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\fact2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/fact3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\fact3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/fact4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\fact4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature_color1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature_color1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature_color2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature_color2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/feature_color3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\feature_color3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/final_icon1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\final_icon1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/final_icon2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\final_icon2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/funfact_color1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\funfact_color1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/funfact_color2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\funfact_color2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/funfact_color3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\funfact_color3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/funfact_color4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\funfact_color4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/place1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\place1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/place2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\place2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/place3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\place3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/process1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\process1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/process2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\process2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/process3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\process3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/process4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\process4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/result_1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\result_1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/result_2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\result_2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/result_3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\result_3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/result_4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\result_4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_color6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_color6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/icon/service_multi_c6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\icon\service_multi_c6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/logo/logo.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/mega_menu/mega_menu.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\mega_menu\mega_menu.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/news/ad.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\news\ad.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/news/post1.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\news\post1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/news/post2.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\news\post2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/news/post3.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\news\post3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_dollar_bg.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_dollar_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/pricing/pricing_icon_bg.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\pricing\pricing_icon_bg.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/process/work_process.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\process\work_process.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/call_to _action_img1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\call_to _action_img1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/call_to _action_img2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\call_to _action_img2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg5.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg5.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/service_bg6.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\service_bg6.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/single_service_img1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\single_service_img1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/single_service_img2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\single_service_img2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/services/single_service_img3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\services\single_service_img3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/home-10-banner.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\home-10-banner.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/pattern_arrow1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\pattern_arrow1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/pattern_arrow2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\pattern_arrow2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/pattern_arrow3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\pattern_arrow3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider-banner-1.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider-banner-2.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider-banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slider_bg_1.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slider_bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/slider/slide_map_pattern.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\slider\slide_map_pattern.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/team/expert1.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\team\expert1.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/team/expert2.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\team\expert2.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/team/expert3.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\team\expert3.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/team/expert4.png
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\team\expert4.png
+Content Type: image/png
+
+Uri: https://demo.themewinter.com/html/seobin/images/testimonial/testimonial.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\testimonial\testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/testimonial/testimonialbg1.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\testimonial\testimonialbg1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/images/testimonial/testimonial_white.jpg
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\images\testimonial\testimonial_white.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themewinter.com/html/seobin/index-10.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-10.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-2.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-2.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-3.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-3.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-4.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-4.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-5.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-5.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-6.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-6.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-7.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-7.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-8.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-8.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index-9.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index-9.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/index.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\index.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/js/bootstrap.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/easy-pie-chart.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\easy-pie-chart.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/gmap3.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\gmap3.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/jquery-2.0.0.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\jquery-2.0.0.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/jquery.counterup.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/jquery.magnific.popup.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\jquery.magnific.popup.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/main.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\main.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/owl-carousel.2.3.0.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\owl-carousel.2.3.0.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/popper.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/smoothscroll.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/waypoints.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/js/wow.min.js
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themewinter.com/html/seobin/news-left-sidebar.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\news-left-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/news-right-sidebar.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\news-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/news-single.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\news-single.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/pricing.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\pricing.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/service.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\service.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/single-case.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\single-case.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/single-service.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\single-service.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/team.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\team.html
+Content Type: text/html
+
+Uri: https://demo.themewinter.com/html/seobin/testimonial.html
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\html\seobin\testimonial.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: D:\Appman project\Project\Statics Website\For Lalu Vai\demo.themewinter.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+

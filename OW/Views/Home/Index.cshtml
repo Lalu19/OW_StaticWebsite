@@ -1,0 +1,1269 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<style>
+    *{
+        margin:0 0 0 0;
+        padding:0 0 0 0;
+    }
+    #HeaderContainer {
+        max-width: 1350px;
+        margin-left: 0px;
+    }
+
+    section {
+        padding: 83px 0;
+        position: relative;
+    }
+    .tw-inro-item {
+        padding-top: 0px;
+        position: relative;
+    }
+    .tw-client {
+        padding-bottom: 59px;
+    }
+    .banner-area {
+        position: relative;
+        color: #fa6742;
+        background-position: 50% 50%;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+    }
+    .tw-footer-info-box {
+        position: absolute;
+        top: -122px;
+        background: #ffffff;
+        padding: 40px;
+        z-index: 2;
+    }
+    .tw-hero-slider .owl-nav button i {
+        font-size: 30px;
+
+        -webkit-transition: all 0.3s linear;
+        -o-transition: all 0.3s linear;
+        transition: all 0.3s linear;
+        border-top:10px solid transparent;
+        border-bottom:10px solid transparent;
+       color:darkblue;
+
+    }
+    .icon-chevron-left:before {
+        content: "\e875";
+        margin: 0 0px 0 -21px;
+    }
+    .icon-chevron-right{
+        margin-right:-20px;
+    }
+    .service-content h3 {
+        font-size: 24px;
+        margin-bottom: -39px;
+        -webkit-transition: all 0.3s linear;
+        -o-transition: all 0.3s linear;
+        transition: all 0.3s linear;
+        margin-left: 58px;
+    }
+    .play {
+        margin-bottom: 200px;
+        margin-left: 10px;
+        height: 89px;
+        width: 125px;
+    }
+
+    .img-fluido {
+        max-width: 100%;
+        height: auto;
+        padding: 0 0 0 129px;
+    }
+    .tw-hero-slider .slider-2 img {
+        height: 654px;
+        width: 500px;
+        margin: 0 63px -99px 63px;
+    }
+    .service-content p {
+        max-width: 250px;
+        margin: 0 auto 10px;
+        padding: 63px;
+    }
+
+    .tw-hero-slider .slider-3 img {
+        height: 511px;
+        width: 500px;
+        margin: 0 63px -99px 63px;
+    }
+    .tw-client .client-logo-wrapper {
+        display: inline-block;
+        text-align: center;
+        margin: 28px 86px;
+    }
+    #tw-service {
+        padding: 83px 0;
+        position: relative;
+        margin-top: -19px;
+    }
+
+   .section {
+        margin-top: -80px;
+    }
+    #tw-service-features {
+        margin-top: -110px;
+    }
+    .tw-client {
+        margin-top: -30px;
+        padding-bottom: 59px;
+    }
+
+    #margin {
+        margin-top: -108px;
+        padding-left: 91px;
+    }
+    .footer-info-text {
+        margin: 26px 81px 32px;
+    }
+
+    .tw-footer-info-box {
+        position: absolute;
+        top: -186px;
+        background: #ffffff;
+        padding: 39px;
+        z-index: 2;
+    }
+    #tw-service {
+        padding: 35px 0;
+        position: relative;
+        margin-top: -19px;
+    }
+   .tw-intro-area{
+       margin-top:-86px;
+   }
+   /* .features-box {
+        width: 300px;
+        height: 200px;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5);
+        text-align: center;
+        margin: 0px 10px 0px 0px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 0px;
+        display: flex;
+        justify-content: space-between;
+        line-height: 300px;
+        border-radius: 20px;
+        text-align: center;
+        margin: 10px;
+    }
+*/
+    .features-box {
+        text-align: center;
+        background: #fff;
+        padding: 32px 44px 32px;
+        -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.03);
+        box-shadow: 0 0 25px rgba(0, 0, 0, 0.03);
+        min-height: 315px;
+        -webkit-transition: all 0.3s linear;
+        -o-transition: all 0.3s linear;
+        transition: all 0.3s linear;
+        justify-content:space-between;
+        line-height:300px;
+        border-radius:20px;
+        margin:10px;
+        
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin: 0px 6px 0px -60px;
+    }
+    .img-fluida {
+
+        position: absolute;
+        top: 28px;
+        left: 66px;
+        width: 195px;
+    }
+    #margin {
+        margin-top: -56px;
+    }
+    @@media (max-width: 990px) {
+        .tw-hero-slider .slider-2 img {
+            height: 654px;
+            width: 500px;
+            margin: 0 60px -97px -145px;
+        }
+        .tw-service-features {
+            padding: 20px;
+            justify-content: space-between;
+            line-height: 300px;
+            border-radius: 20px;
+            text-align: center;
+            margin: 10px;
+
+
+        }
+        .features-box {
+            width: 200px;
+            height: 200px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            margin: 0px 10px 0px 0px;
+            --e-column-margin-right: 10px;
+            --e-column-margin-left: 0px;
+            display: flex;
+            justify-content: space-between;
+            line-height: 300px;
+            border-radius: 20px;
+            text-align: center;
+            margin: 10px;
+        }
+    }
+    @@media (max-width: 768px) {
+        .container {
+            width: 100%;
+            padding: 20px;
+        }
+        .img-fluido {
+            max-width: 100%;
+            height: auto;
+            padding: 0 0 0 214px;
+        }
+
+    }
+    @@media (max-width: 593px) {
+        .container {
+            width: 100%;
+            padding: 20px;
+        }
+        .tw-hero-slider .slider-2 img {
+            height: 654px;
+            width: 500px;
+            margin: 0px 60px -97px -47px;
+        }
+    }
+</style>
+
+<main>
+    <!-- Start hero slider/ Owl Carousel Slider -->
+    <div class="tw-hero-slider owl-carousel">
+
+        <div class="slider-1 slider-map-pattern">
+            <!-- Slider arrow end -->
+            <div class="slider-wrapper d-table">
+                <div class="slider-inner d-table-cell">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="row justify-content-center text-center">
+                                <div class="col-md-10">
+                                    <h1 class="tw-slider-subtitle">Search Engine Optimization</h1>
+                                    <h6 class="tw-slider-title" style=" margin-top: 75px;">
+                                        Bharat focused <span>B2B </span>Distribution Platform
+                                    </h6>
+                                    <h2>Fulfilling $650 Billion Rural Consumption</h2>
+                                </div>
+                                <!-- End Col -->
+
+                            </div>
+                            <div class="col-md-12">
+                                <img src="~/Frontend/images/banner/b2bimage.png" alt="" class="slider-img img-fluid">
+                            </div>
+                            <!-- Col End -->
+                        </div>
+                        <!-- Row End -->
+                        <!-- Row End -->
+                    </div>
+                    <!-- Container End -->
+                </div>
+                <!-- Slider Inner End -->
+            </div>
+            <!-- Slider Wrapper End -->
+        </div>
+        <!-- Slider 1 end -->
+        <!--<div class="slider-2">-->
+        @*<div class="slider-arrow">
+                <img src="images/slider/pattern_arrow2.png" alt="sliderArrow1">
+                <img src="images/slider/pattern_arrow1.png" alt="sliderArrow2">
+                <img src="images/slider/pattern_arrow3.png" alt="sliderArrow3">
+            </div>*@
+        <!--<div class="slider-wrapper d-table">
+        <div class="slider-inner d-table-cell">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-12">-->
+        @*<div class="slider-content">
+                <h1>
+                    We are Creating Custom
+                    <span>SEO</span>
+                </h1>
+                <p>
+                    Start working with an company that provide everything you need to generate awareness, drive traffic,
+                    connect with customers, and increase sales montes
+                </p>
+                <a href="#" class="btn btn-dark">Free Analysis</a>
+            </div>*@
+        <!--</div>-->
+        <!-- Col end -->
+        <!--<div class="col-md-6">
+            <img src="~/Frontend/images/banner/daughter.png" alt="" class="img-fluid slider-img">
+        </div>-->
+        <!-- col end -->
+        <!--</div>-->
+        <!-- Row End -->
+        <!--</div>-->
+        <!-- Container End -->
+        <!--</div>-->
+        <!-- Slider Inner End -->
+        <!--</div>-->
+        <!-- Slider Wrapper End -->
+        <!--</div>-->
+        <!-- Slider 2 end -->
+
+        <div class="slider-2 slider-map-pattern">
+            <!-- Slider arrow end -->
+            <div class="slider-wrapper d-table">
+                <div class="slider-inner d-table-cell">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <!--<div class="row justify-content-center text-center">
+                            <div class="col-md-10">
+                                <h1 class="tw-slider-subtitle">Search Engine Optimization</h1>
+                                <h6 class="tw-slider-title" style=" margin-top: 75px;">
+                                    Bharat focused <span>B2B </span>Distribution Platform
+                                </h6>
+                                <h2>Fulfilling $650 Billion Rural Consumption</h2>
+                            </div>-->
+                            <!-- End Col -->
+                            <!--</div>-->
+                            <div class="col-md-12">
+                                <img class="pup" src="~/Frontend/images/banner/daughter.png" alt="" class="slider-img img-fluid">
+                            </div>
+                            <!-- Col End -->
+                        </div>
+                        <!-- Row End -->
+                        <!-- Row End -->
+                    </div>
+                    <!-- Container End -->
+                </div>
+                <!-- Slider Inner End -->
+            </div>
+            <!-- Slider Wrapper End -->
+        </div>
+
+
+        <!--<div class="slider-3">-->
+        @*<div class="slider-arrow">
+                <img src="images/slider/pattern_arrow2.png" alt="sliderArrow1">
+                <img src="images/slider/pattern_arrow1.png" alt="sliderArrow2">
+                <img src="images/slider/pattern_arrow3.png" alt="sliderArrow3">
+            </div>*@
+        <!--<div class="slider-wrapper d-table">
+        <div class="slider-inner d-table-cell">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-6">
+                        <img src="~/Frontend/images/banner/b2c2image.png" alt="" class="img-fluid slider-img">
+                    </div>-->
+        <!-- Col end -->
+        <!--<div class="col-md-6">
+        <div class="slider-content">
+            <h1>
+                We serve best
+                <span>Local SEO</span> service
+            </h1>
+            <p>
+                Start working with an company that provide everything you need to generate awareness, drive traffic,
+                connect with customers, and increase sales montes
+            </p>
+            <a href="#" class="btn btn-dark">Free Analysis</a>
+        </div>-->
+        <!-- End Slider Content -->
+        <!--</div>-->
+        <!-- col end -->
+        <!--</div>-->
+        <!-- Row End -->
+        <!--</div>-->
+        <!-- COntainer End -->
+        <!--</div>-->
+        <!-- Slider Inner End -->
+        <!--</div>-->
+        <!-- Slider Wrapper End -->
+        <!--</div>-->
+        <!-- Slider 3 end -->
+
+
+        <div class="slider-3 slider-map-pattern">
+            <!-- Slider arrow end -->
+            <div class="slider-wrapper d-table">
+                <div class="slider-inner d-table-cell">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <!--<div class="row justify-content-center text-center">
+                            <div class="col-md-10">
+                                <h1 class="tw-slider-subtitle">Search Engine Optimization</h1>
+                                <h6 class="tw-slider-title" style=" margin-top: 75px;">
+                                    Bharat focused <span>B2B </span>Distribution Platform
+                                </h6>
+                                <h2>Fulfilling $650 Billion Rural Consumption</h2>
+                            </div>-->
+                            <!-- End Col -->
+                            <!--</div>-->
+                            <div class="col-md-12">
+                                <img class="put" src="~/Frontend/images/banner/b2c2image.png" alt="" class="slider-img img-fluid">
+                            </div>
+                            <!-- Col End -->
+                        </div>
+                        <!-- Row End -->
+                        <!-- Row End -->
+                    </div>
+                    <!-- Container End -->
+                </div>
+                <!-- Slider Inner End -->
+            </div>
+            <!-- Slider Wrapper End -->
+        </div>
+    </div>
+    <!-- End Carousel -->
+    <section id="main-container" class="main-container">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <div class="section-heading">
+                        <h2>
+                            India’s fastest growing B2B <span>distribution platform!</span>
+                        </h2>
+                        <span class="animate-border ml-auto mr-auto tw-mt-20 tw-mb-40"></span>
+                        <p>
+                            <b>
+                                Onewholesale Connects and distributes brands with thousands of retail stores through our,
+                                strong web of local community partners.
+                            </b>
+                        </p>
+                    </div>
+                    <!-- section Heading End -->
+                </div>
+                <!-- Col End -->
+            </div>
+            <!-- title Row End -->
+            <!-- Content Row End -->
+        </div>
+        <!-- Container End -->
+    </section>
+    <!-- End Features section -->
+    <!-- intro section start -->
+    <section class="tw-inro-item">
+        <div class="container">
+            <div class="row">
+                @*<div class="col-lg-4 align-self-center col-md-12">
+                        <h2 class="column-title light">A better website means better user experience</h2>
+                        <p>
+                            Start working with an company that can provide everything you need to generate awareness, drive traffic, connect with customer
+                            and increase sales nascetur ridiculus mus. Donec quam felis their ultricies nec, pellentesque eu
+                        </p>
+                        <p>
+                            And increase sales nascetur ridiculus mus. Donec quam felis their the ultricies nec
+                        </p>
+                    </div>*@
+                <!-- End Col -->
+                <div class="col-lg-10 offset-lg-1 col-md-12 text-lg-right" id="abcd" style="margin-top: -167px;">
+                    <img src="~/Frontend/images/about/MinimalistColorfulOrganizationalStructureListGraph2OW.png" alt="" class="img-fluid">
+                </div>
+                <!-- End Col -->
+
+            </div>
+        </div>
+    </section>
+    <div id="banner-area" class="banner-area bg-overlay case-bg-overlay" style="background-image: url(../../Frontend/images/banner/PeerPartner.jpg); margin-top: -120px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="banner-heading case-banner-heading">
+                        @*<h1 class="banner-case-title"><span>Become a Peer Partner</span> and an entrepreneur.<br>Start your online shop!</h1>*@
+                    </div>
+                </div>
+                <div class="tw-footer-info-box" style="margin-top: 477px; margin-left: -43px;">
+                    <p class="footer-info-text" style="color: #fa6742; width:281px">
+                        <img class="play" src="~/Frontend/images/clients/google-play-store4701.jpg" height="100" width="80" align="right" />
+                        <h3 style="color: #fa6742;">Become a Partner and <br />Start your<br>Entrepreneur Journey!</h3>
+                    </p>
+                    <!-- End Social link -->
+                    @*<img class="play" src="~/Frontend/images/clients/google-play-store4701.jpg" height="80" width="80" align="right"/>*@
+                </div>
+                <!-- Col end -->
+            </div>
+            <!-- Row end -->
+        </div>
+        <!-- Container end -->
+    </div>
+    <section id="tw-service" class="tw-service">
+        <div class="container">
+            <div class="row text-center">
+
+                <!-- Title Col End -->
+            </div>
+            <!-- Title Row End -->
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="tw-service-box">
+                        <div class="service-icon service-icon-bg-1 d-table">
+                            <div class="service-icon-inner d-table-cell">
+                                <img src="~/Frontend/images/icon/service1.png" alt="search engine" class="img-fluido">
+                            </div>
+                        </div>
+                        <!-- Service icon end -->
+                        <div class="service-content">
+                            <h3>Minimum Investment</h3>
+                        </div>
+                        <!-- Service Content end -->
+                    </div>
+                    <!-- Service box end -->
+                </div>
+                <!-- Col End -->
+                <div class="col-md-4">
+                    <div class="tw-service-box">
+                        <div class="service-icon service-icon-bg-2 d-table">
+                            <div class="service-icon-inner d-table-cell">
+                                <img src="~/Frontend/images/icon/service2.png" alt="search engine" class="img-fluido">
+                            </div>
+                        </div>
+                        <!-- Service icon end -->
+                        <div class="service-content">
+                            <h3>Earn Best Margin</h3>
+                        </div>
+                        <!-- Service content end -->
+                    </div>
+                    <!-- Service box End -->
+                </div>
+                <!-- Col End -->
+                <div class="col-md-4">
+                    <div class="tw-service-box">
+                        <div class="service-icon service-icon-bg-3 d-table">
+                            <div class="service-icon-inner d-table-cell">
+                                <img src="~/Frontend/images/icon/service3.png" alt="search engine" class="img-fluido">
+                            </div>
+                        </div>
+                        <!-- Service Icon End -->
+                        <div class="service-content">
+                            <h3>Wide range Of Products</h3>
+                        </div>
+                        <!-- Service content end -->
+                    </div>
+                    <!-- Service box End -->
+                </div>
+                <!-- Col end -->
+            </div>
+            <!-- Row end -->
+            <div class="tw-mb-105"></div>
+            <div class="row">
+
+                <!-- Col end -->
+                <!-- Row End -->
+                <!-- Col end -->
+            </div>
+            <!-- Row End -->
+        </div>
+        <!-- container -->
+    </section>
+
+    <section id="tw-intro" class="tw-intro-area" style="margin-top: -76px ">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-5 ml-auto col-md-12 wow fadeInRight" data-wow-duration="1s">
+                    <h2 class="column-title">Creating Rural Commerce</h2>
+                    <span class="animate-border tw-mb-40"></span>
+                    <p>
+                        <b>  Onewholesale is leveraging tech, AI and Community to Connect and Create Commerce at rural areas  by creating village level entrepreneurs..</b>
+                    </p>
+                    <p>
+                        <b> Our AIM is to create a robust online B2B Platform For rural & by rural to make them financially independent.</b>
+                    </p>
+                    <!-- End Intro list -->
+                    <!-- Default Round Btn -->
+                </div>
+                <!-- End Col -->
+                <div class="col-lg-6 col-md-12 text-lg-right text-md-center wow fadeInLeft" data-wow-duration="1s" style="position: relative;">
+                    <img src="~/Frontend/images/about/mobileimage.jpg" alt="" class="img-fluid">
+                    <img src="~/Frontend/image/PlayStore.png" alt="" class="img-fluida" style="position: absolute; top: 28px; left: 8px; width:195px;" />
+
+                </div>
+                <!-- End Col -->
+            </div>
+            <!-- End Row -->
+        </div>
+        <!-- End Container -->
+    </section>
+    <section class="tw-inro-item">
+        <div class="container">
+            <div class="row">
+                @*<div class="col-lg-4 align-self-center col-md-12">
+                        <h2 class="column-title light">A better website means better user experience</h2>
+                        <p>
+                            Start working with an company that can provide everything you need to generate awareness, drive traffic, connect with customer
+                            and increase sales nascetur ridiculus mus. Donec quam felis their ultricies nec, pellentesque eu
+                        </p>
+                        <p>
+                            And increase sales nascetur ridiculus mus. Donec quam felis their the ultricies nec
+                        </p>
+                    </div>*@
+                <!-- End Col -->
+                <div class="col-lg-10 offset-lg-1 col-md-12 text-lg-right">
+                    <img src="~/Frontend/images/about/CircularDiagram1OW.png" alt="" class="img-fluid">
+                </div>
+                <!-- End Col -->
+            </div>
+        </div>
+    </section>
+    <section class="elementor-section elementor-top-section elementor-element elementor-element-d2064e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d2064e4" data-element_type="section" id="margin">
+        <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e772c53" data-id="e772c53" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                    <div class="elementor-element elementor-element-4e83b52 elementor-widget elementor-widget-text-editor" data-id="4e83b52" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <ul><li><b>Connects FMCG and Grocery brands to rural based small &amp;&amp; medium kirana stores through our own local network of community partners(FPO/PO/SHG/Local Individuals)</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li><li><b>Enables rural kirana to run with lighter inventory, thinner working capital yet with high variety.</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li><li><b>Helps B2C e-commerce companies to reach rural customers by using our network of rural community partners.</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li><li><b>Helping banking institutions to extend financial services to rural consumers.</b>&nbsp;</li></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- intro section end-->
+    <!--<section id="tw-service-features" class="tw-service-features">
+        <div class="container">-->
+            <!-- Heading Row End -->
+            <!--<div class="row">
+                <div class="col-md-4 text-center">
+                    <div class="box">
+                        <p style="color: black;">Onewholesale extends distribution hence opening up a new addressable market.</p>
+                    </div>-->
+                    <!-- Features box End -->
+                <!--</div>-->
+                <!-- Col End -->
+                <!--<div class="col-md-4 text-center">
+                    <div class="box">
+                        <p style="color: black;">Local based network of communities enable "zero-apex" and "Zero-variable cost" to access rural retailer.</p>
+                    </div>-->
+                    <!-- Features box End -->
+                <!--</div>-->
+                <!-- Col End -->
+                <!--<div class="col-md-4 text-center">
+                    <div class="box">
+                        <p style="color: black;">Access to rural consumption data and buying pattern enables new opportunities.</p>
+                    </div>-->
+                    <!-- Features box End -->
+                <!--</div>-->
+                <!-- Col End -->
+            <!--</div>-->
+            <!-- Content Row End -->
+        <!--</div>-->
+        <!-- Container End -->
+    <!--</section>-->
+
+    <section id="tw-features" class="tw-features-area">
+        <div class="container">
+            <div class="row tw-mb-65">
+                
+                
+            </div>
+            <!-- End Row 1 -->
+            <div class="row">
+                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    <div class="features-box">
+                        <!--<div class="features-icon d-table">-->
+                            @*<div class="features-icon-inner d-table-cell">
+                                <img src="images/icon/feature1.png" alt="">
+                            </div>*@
+                            <!-- End Features icon inner -->
+                        <!--</div>-->
+                        <!-- End Features Icon -->
+                        @*<h3>Socail Marketing</h3>*@
+                        <p>
+                            Onewholesale extends distribution hence opening up a new addressable market.
+                        </p>
+                        
+                    </div>
+                    <!-- End Single Features -->
+                </div>
+                <!-- Col End -->
+                <div class="col-lg-4 col-md-12  wow fadeInUp" data-wow-duration="1.6s" data-wow-delay=".4s">
+                    <div class="features-box">
+                        <div class="features-icon d-table">
+                            @*<div class="features-icon-inner d-table-cell">
+                                <img src="images/icon/feature2.png" alt="">
+                            </div>*@
+                            <!-- End Features Icon inner -->
+                        </div>
+                        <!-- End Features Icon -->
+                        @*<h3>SEO Optimization</h3>*@
+                    <p>
+                        Local based network of communities enable "zero-apex" and "Zero-variable cost" to access rural retailer.
+                    </p>
+                        @*<a href="#" class="tw-readmore">
+                            Read More
+                            <i class="fa fa-angle-right"></i>
+                        </a>*@
+                    </div>
+                    <!-- End Single Features -->
+                </div>
+                <!-- end col -->
+                <div class="col-lg-4 col-md-12  wow fadeInUp" data-wow-duration="1.9s" data-wow-delay=".6s">
+                    <div class="features-box">
+                        <div class="features-icon d-table">
+                            @*<div class="features-icon-inner d-table-cell">
+                                <img src="images/icon/feature3.png" alt="">
+                            </div>*@
+                            <!-- End Features Icon inner -->
+                        </div>
+                        <!-- End Features Icon -->
+                       
+                        <p>
+                            Access to rural consumption data and buying pattern enables new opportunities.
+
+                        </p>
+                       
+                    </div>
+                    <!-- End Single Features -->
+                </div>
+                <!-- End col -->
+            </div>
+            <!-- End Row 2 -->
+        </div>
+        <!-- End Container -->
+    </section>
+
+
+    <section id="tw-client" class="tw-client">
+        <div class="container">
+            <div class="row wow fadeInUp justify-content-center">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/Coca-cola.png" alt="" height="120" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/ruchi.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/dabur.png" alt="" height="140" width="140">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/freedome.png" alt="" height="100" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/big basket.png" alt="" height="100" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/paper boat.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/omfed.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/too-yumm.png" alt="" height="120" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/evrest.png" alt="" height="80" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/orion.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/tropicana.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/sobisco.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/tataconsumer.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/nestle.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/mondelenz.png" alt="" height="80" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/ikrish.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/frit-lay.png" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/dalda.png" alt="" height="120" width="120">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/cintu.jpg" alt="" height="100" width="100">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="client-logo-wrapper d-table">
+                                <div class="client-logo d-table-cell">
+                                    <img src="~/Frontend/images/clients/arthan.png" alt="" height="80" width="100">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+
+    @*<section class="elementor-section elementor-top-section elementor-element elementor-element-1189841 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="1189841" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f967295" data-id="f967295" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-16c31df elementor-widget elementor-widget-image" data-id="16c31df" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="80" height="80" src="~/Frontend/images/clients/too-yumm.png" class="attachment-large size-large wp-image-1305" alt="" loading="lazy" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-86ee64d" data-id="86ee64d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-c08f18a elementor-widget elementor-widget-image" data-id="c08f18a" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="80" height="80" src="~/Frontend/images/clients/frit-lay.png" class="attachment-large size-large wp-image-1336" alt="" loading="lazy" srcset="https://onewholesale.co/wp-content/uploads/2023/04/frit-lay.png 350w, https://onewholesale.co/wp-content/uploads/2023/04/frit-lay-300x200.png 300w" sizes="(max-width: 350px) 100vw, 350px" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1191eea" data-id="1191eea" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-faec5a5 elementor-widget elementor-widget-image" data-id="faec5a5" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="80" height="80" src="~/Frontend/images/clients/cintu.jpg" class="attachment-2048x2048 size-2048x2048 wp-image-1430" alt="" loading="lazy" srcset="https://onewholesale.co/wp-content/uploads/2023/06/download-_1_.jpg 225w, https://onewholesale.co/wp-content/uploads/2023/06/download-_1_-150x150.jpg 150w, https://onewholesale.co/wp-content/uploads/2023/06/download-_1_-100x100.jpg 100w" sizes="(max-width: 225px) 100vw, 225px" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7eaf612" data-id="7eaf612" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-3dec217 elementor-widget elementor-widget-image" data-id="3dec217" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="80" height="80" src="~/Frontend/images/clients/big basket.png" class="attachment-large size-large wp-image-1309" alt="" loading="lazy" srcset="https://onewholesale.co/wp-content/uploads/2023/04/tatta.png 557w, https://onewholesale.co/wp-content/uploads/2023/04/tatta-300x180.png 300w" sizes="(max-width: 557px) 100vw, 557px" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-5817603" data-id="5817603" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-802badc elementor-widget elementor-widget-image" data-id="802badc" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="80" height="80" src="~/Frontend/images/clients/arthan.png" class="attachment-2048x2048 size-2048x2048 wp-image-1310" alt="" loading="lazy" srcset="https://onewholesale.co/wp-content/uploads/2023/04/arthan.png 568w, https://onewholesale.co/wp-content/uploads/2023/04/arthan-300x78.png 300w" sizes="(max-width: 568px) 100vw, 568px" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>*@
+
+    <section id="tw-service" class="tw-service">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col section-heading wow fadeInDown">
+                    <h2>
+                        Why
+                        <span>Choose Us</span>
+                    </h2>
+                    <span class="animate-border ml-auto mr-auto tw-mt-20"></span>
+                </div>
+                <!-- Title Col End -->
+            </div>
+            <!-- Title Row End -->
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
+                        <!-- Service icon end -->
+                        <div class="service-content">
+                            <h3>Perfection anytime</h3>
+                            <p>We deliver on time & thats what we do everytime</p>
+                        </div>
+                        <!-- Service Content end -->
+                    </div>
+                    <!-- Service box end -->
+                </div>
+                <!-- Col End -->
+                <div class="col-md-4 text-center">
+                    <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".4s">
+                        <!-- Service icon end -->
+                        <div class="service-content">
+                            <h3>All day communication</h3>
+                            <p>Our partners are busy handling their customers and we know that So, we have a dedicated customer care service 24/7</p>
+                        </div>
+                        <!-- Service content end -->
+                    </div>
+                    <!-- Service box End -->
+                </div>
+                <!-- Col End -->
+                <div class="col-md-4 text-center">
+                    <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".6s">
+                        <!-- Service Icon End -->
+                        <div class="service-content">
+                            <h3>Advance technology</h3>
+                            <p>Onewholesale enables our partners to use and take advantage of our latest cutting edge technology for a better experience</p>
+                        </div>
+                        <!-- Service content end -->
+                    </div>
+                    <!-- Service box End -->
+                </div>
+                <!-- Col end -->
+            </div>
+            <!-- Row end -->
+            <div class="tw-mb-60"></div>
+            <div class="row">
+
+                <!-- Col end -->
+                <!-- Row End -->
+                <!-- Col end -->
+            </div>
+            <!-- Row End -->
+        </div>
+        <!-- container -->
+    </section>
+    @*<section id="tw-service" class="tw-service tw-service-item" style=" margin-top: -75px;">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col section-heading light wow fadeInDown">
+                        <h2>
+                            Services
+                        </h2>
+                    </div>
+         Title Col End
+        </div>
+         Title Row End
+        <div class="row">
+            <div class="col-md-4">
+                <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
+                    <div class="service-icon">
+                        <img src="~/Frontend/images/icon/service_color1.png" alt="search engine" class="img-fluid">
+                    </div>
+         Service icon end
+        <div class="service-content">
+            <h3>SEO Optimization</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service Content end
+        </div>
+         Service box end
+        </div>
+         Col End
+        <div class="col-md-4">
+            <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".4s">
+                <div class="service-icon">
+                    <img src="~/Frontend/images/icon/service_color2.png" alt="search engine" class="img-fluid">
+                </div>
+         Service icon end
+        <div class="service-content">
+            <h3>Content Marketing</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service content end
+        </div>
+         Service box End
+        </div>
+         Col End
+        <div class="col-md-4">
+            <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".6s">
+                <div class="service-icon">
+                    <img src="~/Frontend/images/icon/service_color3.png" alt="search engine" class="img-fluid">
+                </div>
+         Service Icon End
+        <div class="service-content">
+            <h3>Data Analysis</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service content end
+        </div>
+         Service box End
+        </div>
+         Col end
+        </div>
+         Row end
+        <div class="tw-mb-100"></div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
+                    <div class="service-icon">
+                        <img src="~/Frontend/images/icon/service_color4.png" alt="search engine" class="img-fluid">
+                    </div>
+         Service icon end
+        <div class="service-content">
+            <h3>Digital Marketing</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service content end
+        </div>
+         Service Box end
+        </div>
+         Col end
+        <div class="col-md-4">
+            <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".4s">
+                <div class="service-icon">
+                    <img src="~/Frontend/images/icon/service_color5.png" alt="search engine" class="img-fluid">
+                </div>
+         Service icon end
+        <div class="service-content">
+            <h3>Web Analytics</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service content end
+        </div>
+         Service box end
+        </div>
+         Row End
+        <div class="col-md-4">
+            <div class="tw-service-box wow zoomIn" data-wow-duration="1s" data-wow-delay=".6s">
+                <div class="service-icon">
+                    <img src="~/Frontend/images/icon/service_color6.png" alt="search engine" class="img-fluid">
+                </div>
+         Service Icon end
+        <div class="service-content">
+            <h3>Social Marketing</h3>
+            <p>Start working with an company that provides everything you need</p>
+        </div>
+         Service Content end
+        </div>
+         Service box end
+        </div>
+         Col end
+        </div>
+         Row End
+        </div>
+         container
+        </section>
+         Tw Service End
+        <section id="tw-blog" class="tw-blog transparent">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col section-heading light wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
+                        <h2>
+                            Latest News
+                        </h2>
+                    </div>
+         Col end
+        </div>
+         Row End
+        <div class="row wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+            <div class="col-lg-4 col-md-12">
+                <div class="tw-latest-post">
+                    <div class="latest-post-media text-center">
+                        <img src="~/Frontend/images/news/post1.jpg" alt="blog_image_one" class="img-fluid">
+                    </div>
+         End Latest Post Media
+        <div class="post-body">
+            <div class="post-item-date">
+                <div class="post-date">
+                    <span class="date">29</span>
+                    <span class="month">May</span>
+                </div>
+            </div>
+         End Post Item Date
+        <div class="post-info">
+            <div class="post-meta">
+                <span class="post-author">
+                    Posted by
+                    <a href="">Admin</a>
+                </span>
+            </div>
+         End Post Meta
+        <h3 class="post-title">
+            <a href="#">SEO trend to look for the best in 2018</a>
+        </h3>
+        <div class="entry-content">
+            <p>
+                One of the top 100 advertising of a marketing agencies know that how to grow your business
+            </p>
+        </div>
+         End Entry Content
+        </div>
+         End Post info
+        </div>
+         End Post Body
+        </div>
+         End Tw Latest Post
+        </div>
+         End Col
+        <div class="col-lg-4 col-md-12">
+            <div class="tw-latest-post">
+                <div class="latest-post-media text-center">
+                    <img src="~/Frontend/images/news/post2.jpg" alt="blog_image_one" class="img-fluid">
+                </div>
+         End Latest Post Media
+        <div class="post-body">
+            <div class="post-item-date">
+                <div class="post-date">
+                    <span class="date">29</span>
+                    <span class="month">May</span>
+                </div>
+            </div>
+         End Post Item Date
+        <div class="post-info">
+            <div class="post-meta">
+                <span class="post-author">
+                    Posted by
+                    <a href="">Admin</a>
+                </span>
+            </div>
+         End Post Meta
+        <h3 class="post-title">
+            <a href="#">SEO trend to look for the best in 2018</a>
+        </h3>
+        <div class="entry-content">
+            <p>
+                One of the top 100 advertising of a marketing agencies know that how to grow your business
+            </p>
+        </div>
+         End Entry Content
+        </div>
+         End Post info
+        </div>
+         End Post Body
+        </div>
+         End Tw Latest Post
+        </div>
+         End Col
+        <div class="col-lg-4 col-md-12">
+            <div class="tw-latest-post">
+                <div class="latest-post-media text-center">
+                    <img src="~/Frontend/images/news/post3.jpg" alt="blog_image_one" class="img-fluid">
+                </div>
+         End Latest Post Media
+        <div class="post-body">
+            <div class="post-item-date">
+                <div class="post-date">
+                    <span class="date">29</span>
+                    <span class="month">May</span>
+                </div>
+            </div>
+         End Post Item Date
+        <div class="post-info">
+            <div class="post-meta">
+                <span class="post-author">
+                    Posted by
+                    <a href="">Admin</a>
+                </span>
+            </div>
+         End Post Meta
+        <h3 class="post-title">
+            <a href="#">SEO trend to look for the best in 2018</a>
+        </h3>
+        <div class="entry-content">
+            <p>
+                One of the top 100 advertising of a marketing agencies know that how to grow your business
+            </p>
+        </div>
+         End Entry Content
+        </div>
+         End Post info
+        </div>
+         End Post Body
+        </div>
+         End Tw Latest Post
+        </div>
+         End Col
+        </div>
+         End Row
+        </div>
+         Container End
+        </section>
+         End tw blog*@
+</main>
